@@ -1,0 +1,7 @@
+C:\Users\Tparaswar\source\repos\ChessKnightCalculation\bin\Debug\ChessKnightCalculation.exe.config
+C:\Users\Tparaswar\source\repos\ChessKnightCalculation\bin\Debug\ChessKnightCalculation.exe
+C:\Users\Tparaswar\source\repos\ChessKnightCalculation\bin\Debug\ChessKnightCalculation.pdb
+C:\Users\Tparaswar\source\repos\ChessKnightCalculation\obj\Debug\ChessKnightCalculation.csprojAssemblyReference.cache
+C:\Users\Tparaswar\source\repos\ChessKnightCalculation\obj\Debug\ChessKnightCalculation.csproj.CoreCompileInputs.cache
+C:\Users\Tparaswar\source\repos\ChessKnightCalculation\obj\Debug\ChessKnightCalculation.exe
+C:\Users\Tparaswar\source\repos\ChessKnightCalculation\obj\Debug\ChessKnightCalculation.pdb
